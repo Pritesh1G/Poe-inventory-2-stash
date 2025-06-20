@@ -45,7 +45,11 @@ Download and install AutoHotkey from: [https://www.autohotkey.com/](https://www.
    ```ahk
    delta := 50  ; Replace with your result
    ```
+5. If your ping is higher change the click delay to something higher
 
+  ```ahk
+   clickDelay := 30  ; Replace with higher value
+   ```
 ---
 
 ### 4. Save and Reload
